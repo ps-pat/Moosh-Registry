@@ -1,0 +1,6 @@
+name = "MooshRegistry"
+uuid = "d3d129ad-3d09-48e0-a834-ead9fc7ab1fc"
+repo = "git@github.com:ps-pat/Moosh-Registry.git"
+description = "Registry for anything Moosh related."
+
+[packages]
