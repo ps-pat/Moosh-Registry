@@ -4,4 +4,5 @@ repo = "git@github.com:ps-pat/Moosh-Registry.git"
 description = "Registry for anything Moosh related."
 
 [packages]
+778192d3-ef18-4ce5-814b-6356444560f1 = { name = "Simulations", path = "S/Simulations" }
 99b31415-443e-43a2-8bf4-ca532bb4a161 = { name = "Moosh", path = "M/Moosh" }
