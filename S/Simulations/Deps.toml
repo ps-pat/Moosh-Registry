@@ -9,6 +9,8 @@ Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 
 ["0.1.10-0"]
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+
+["0.1.10-0.1.16"]
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 
 ["0.1.15-0"]
