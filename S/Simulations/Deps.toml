@@ -1,20 +1,27 @@
 [0]
-JLSO = "9da8a3cd-07a3-59c0-a743-3fdc52c30d11"
 Moosh = "99b31415-443e-43a2-8bf4-ca532bb4a161"
 RandomNumbers = "e6cf234a-135c-5ec9-84dd-332b85af5143"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
+["0-0.1.17"]
+JLSO = "9da8a3cd-07a3-59c0-a743-3fdc52c30d11"
+
 ["0-0.1.9"]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
-
-["0.1.10-0"]
-Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 
 ["0.1.10-0.1.16"]
 ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 
+["0.1.10-0.1.17"]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+
 ["0.1.15-0"]
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+
+["0.1.18-0"]
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
 
 ["0.1.2-0"]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
