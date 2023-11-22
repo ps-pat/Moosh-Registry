@@ -17,5 +17,11 @@ Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
 ["0.1.18"]
 Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
 
-["0.1.18-0"]
+["0.1.18-0.1.28"]
 Chain = "8be319e6-bccf-4806-a6f7-6fae938471bc"
+
+["0.1.29-0"]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+NLopt = "76087f3c-5699-56af-9a33-bf431cd00edd"
+StatsAPI = "82ae8749-77ed-4fe6-ae5f-f523153014b0"
