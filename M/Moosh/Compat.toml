@@ -1,13 +1,21 @@
 [0]
 Distributions = "0.25"
 GraphMakie = "0.5"
+
+["0 - 0.1.55"]
+StaticArrays = "1.5.0-1"
+
+["0 - 0.1.61"]
 Graphs = "1.8.0-1"
 IntervalSets = "0.7.4-0.7"
 Random = "1.8.0-1"
 julia = "1.8.0-1"
 
-["0-0.1.55"]
-StaticArrays = "1.5.0-1"
-
-["0-0.1.9"]
+["0 - 0.1.9"]
 Turing = "0.25"
+
+["0.1.62 - 0"]
+Graphs = "1.8.0 - 1"
+IntervalSets = "0.7.4 - 0.7"
+Random = "1.8.0 - 1"
+julia = "1.8.0 - 1"
