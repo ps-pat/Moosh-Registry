@@ -77,3 +77,6 @@ JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 UnsafeArrays = "c4a57d5a-5b31-53a6-b365-19f8c011fbd6"
+
+["0.1.64 - 0"]
+ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
