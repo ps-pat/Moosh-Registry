@@ -78,5 +78,8 @@ NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 UnsafeArrays = "c4a57d5a-5b31-53a6-b365-19f8c011fbd6"
 
-["0.1.64 - 0"]
+["0.1.64 - 0.1.65"]
 ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
+
+["0.1.66 - 0"]
+Term = "22787eb5-b846-44ae-b979-8e399b8463ab"
