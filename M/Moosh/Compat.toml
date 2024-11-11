@@ -25,3 +25,7 @@ ProgressBars = "1.5.1 - 1"
 
 ["0.1.66 - 0"]
 Term = "2.0.6 - 2"
+
+["0.1.68 - 0"]
+ProgressBars = "1.5.1 - 1"
+ProgressLogging = "0.1.4 - 0.1"
