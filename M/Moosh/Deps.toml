@@ -81,9 +81,11 @@ UnsafeArrays = "c4a57d5a-5b31-53a6-b365-19f8c011fbd6"
 ["0.1.64 - 0.1.65"]
 ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
 
-["0.1.66 - 0"]
+["0.1.66 - 0.1.68"]
 Term = "22787eb5-b846-44ae-b979-8e399b8463ab"
 
-["0.1.68 - 0"]
+["0.1.68"]
 ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
+
+["0.1.68 - 0"]
 ProgressLogging = "33c8b6b6-d38a-422a-b730-caa89a2f386c"
